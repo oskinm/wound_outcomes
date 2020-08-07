@@ -17,6 +17,9 @@ Data transformation: [![Binder](https://mybinder.org/badge_logo.svg)](https://my
 
 Correlation matrix: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskinm/wound_outcomes.git/master?filepath=notebooks%2F06-oskin-corr-matrix.ipynb)
 
+Exploratory Data Analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskinm/wound_outcomes.git/master?filepath=notebooks%2F07-oskin-eda.ipynb)
+
+
 Project Organization
 ------------
 
