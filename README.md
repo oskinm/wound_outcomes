@@ -19,6 +19,7 @@ Correlation matrix: [![Binder](https://mybinder.org/badge_logo.svg)](https://myb
 
 Exploratory Data Analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskinm/wound_outcomes.git/master?filepath=notebooks%2F07-oskin-eda.ipynb)
 
+Investigating the relationship between surgery types and wound outcomes: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskinm/wound_outcomes.git/master?filepath=notebooks%2F08-oskin-eda-chi2.ipynb)
 
 Project Organization
 ------------
